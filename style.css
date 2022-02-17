@@ -19,6 +19,8 @@ body {
         50deg, 
         yellow,
         lightgreen
+    background-attachment: fixed;
+    background-repeat: no-repeat;
     );
     color: white;
 
