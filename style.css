@@ -40,7 +40,7 @@ body {
 .Testung{
 
     padding-left: 20px;
-    padding-top: 50px;
+    padding-top: 20px;
     
 }
 
@@ -48,13 +48,13 @@ body {
     {
 
         padding-left: 20px;
-        padding-top: 50px;
+        padding-top: 20px;
 
     }
 
 .Elternschreiben {
     padding-left: 20px;
-    padding-top: 50px;
+    padding-top: 20px;
 
 }
 
@@ -65,4 +65,14 @@ body {
 
 .FürPersonen{
     color: red;
+}
+
+.Elterninformationen{
+    padding-left: 20px;
+    padding-top: 50px;
+}
+
+.infos{
+    padding-left: 20px;
+    padding-top: 20px;
 }
