@@ -10,7 +10,7 @@
 
 img {
     height: 60px;
-    padding-left: 1220px;
+    padding-left: 1120px;
     
 }
 
@@ -23,9 +23,46 @@ body {
     color: black;
     background-attachment: fixed;
     background-repeat: no-repeat;
+
 }
 
 .info {
-    padding-top: 220px;
+    padding-top: 377px;
+}
+
+.Infektionsschutz{
+
     
+    padding-left: 20px;
+    padding-top: 50px;
+}
+
+.Testung{
+
+    padding-left: 20px;
+    padding-top: 50px;
+    
+}
+
+.Formular
+    {
+
+        padding-left: 20px;
+        padding-top: 50px;
+
+    }
+
+.Elternschreiben {
+    padding-left: 20px;
+    padding-top: 50px;
+
+}
+
+.Infektionsbild{
+    padding-left: 30px;
+    height: 190px;
+}
+
+.FürPersonen{
+    color: red;
 }
